@@ -1,9 +1,9 @@
 # BlenderGeo
 由于时间所限，现仅提供blender源文件和部分PPT供大家参考，欢迎交流：201911010135@mail.bnu.edu.cn
-部分PPT应用示例上传至百度网盘以供参考：
+部分PPT应用示例上传至百度网盘以供参考：\n
   链接：https://pan.baidu.com/s/1yXX-l8YFN-er3JnXKvW74g  提取码：1234
 另上传部分模型至在线三维模型网站Sketchfab：
-  新月形沙丘 https://sketchfab.com/3d-models/b70886e6cbc94f609c33dd1ad379b213
+  新月形沙丘 https://sketchfab.com/3d-models/b70886e6cbc94f609c33dd1ad379b213  \n
   地球 https://sketchfab.com/3d-models/71953f0c1dd94a5d9329b81e37651784
   地层 https://sketchfab.com/3d-models/64dacd9249c148beaa06d2e09ffe3ddc
   太阳大气层结构 https://sketchfab.com/3d-models/7773e1aaa3d44261a4a1fc15ea869a28
